@@ -43,14 +43,21 @@
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
 </p>
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=komalkurapati147&show_icons=true&theme=radical" /> 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=komalkurapati147&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=komalkurapati147&layout=compact&theme=radical" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkurapati147&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkurapati147&theme=radical" />
 </p>
 
 ## 🔥 Streak Stats
