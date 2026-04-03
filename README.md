@@ -55,10 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkurapati147&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkurapati147&theme=radical" />
-</p>
 
 ## 🔥 Streak Stats
 
