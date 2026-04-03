@@ -44,16 +44,16 @@
 <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
 </p>
 
- 📊 GitHub Stats
+ 
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=komalkurapati147&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=komalkurapati147&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkurapati147&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=komalkurapati147&layout=compact&theme=radical" />
 </p>
 
 
